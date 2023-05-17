@@ -25,6 +25,10 @@ This React code generates a word frequency histogram from a text file.
 - file-saver
 - chart.js/auto
 
+## deployment on netlify
+[https://tinytails.netlify.app/](https://tinytails.netlify.app/)
+
+
 
 ## Code Explanation
 
